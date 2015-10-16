@@ -98,4 +98,5 @@ def query_revisions_by_revids(session, revids, batch=50, prop="revisions",
                         yield revision_doc
 
 
-if __name__ == "__main__": main()
+if __name__ == "__main__":
+    main()
