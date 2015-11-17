@@ -1,0 +1,92 @@
+== Welcome! ==
+<!-- Template from Template:Welcomeg -->
+{| style="background-color: #F5FFFA; padding: 0;" cellpadding="0"
+|-
+| style="border: 1px solid #084080; background-color: #F5FFFA; vertical-align: top; color: #000;"|
+{| cellpadding="0" cellspacing="5" style="vertical-align: top; background-color: #F5FFFA; padding: 0; width: 100%;"
+|-
+| <div style="margin:0; background-color: #CEF2E0; border: 1px solid #084080; text-align: left; padding-left: 0.4em; padding-top: 0.2em; padding-bottom: 0.2em;">Hello, J34jhon, and [[Wikipedia:Welcoming committee/Welcome to Wikipedia|Welcome]] to Wikipedia! Thank you for [[Special:Contributions/J34jhon|your contributions]] to this free encyclopedia. If you decide that you need help, check out ''Getting Help'' below, ask me on [[User talk:XLinkBot|my talk page]], or place '''{{Tlc|Help me}}''' on your talk page and ask your question there. Please remember to [[Wikipedia:Signatures|sign your name]] on talk pages by using four [[tilde]]s (<nowiki>~~~~</nowiki>) or by clicking [[File:Insert-signature.png|alt=|link=]] if shown; this will automatically produce your username and the date. Also, please do your best to always fill in the [[Help:Edit summary|edit summary]] field with your edits. Below are some useful links to facilitate your involvement. Happy editing! – [[User:XLinkBot|XLinkBot]] ([[User talk:XLinkBot|talk]]) 06:03, 30 October 2015 (UTC)</div>
+|}
+
+{| width="100%" style="background-color:#F5FFFA;"
+|style="width: 55%; border:1px solid #FFFFFF; background-color:#F5FFFA; vertical-align:top"|
+{| width="100%" cellpadding="0" cellspacing="5" style="vertical-align:top; background-color:#F5FFFA"
+! <div style="margin: 0; background-color:#084080; font-family: sans-serif; font-size:120%; font-weight:bold; border:1px solid #CEF2E0; text-align:left; color:#FFC000; padding-left:0.4em; padding-top: 0.2em; padding-bottom: 0.2em;">Getting started</div>
+|-
+|style="color:#000"|
+* [[Wikipedia:Tutorial|A tutorial]] • [[Wikipedia:Five pillars|Our five pillars]] • [[Wikipedia:Adopt-a-User|Getting mentored]]
+* How to: [[Wikipedia:How to edit a page|Edit a page]] • [[Wikipedia:Images|Upload and use images]] • [[Wikipedia:Your first article|Create your first article]]
+*[[WP:TMM|Intuitive guide to Wikipedia]] • [[Wikipedia:Article wizard2.0|Article Creation Wizard]]
+|-
+! <div style="margin: 0; background:#084080; font-family: sans-serif; font-size:120%; font-weight:bold; border:1px solid #CEF2E0; text-align:left; color:#FFC000; padding-left:0.4em; padding-top: 0.2em; padding-bottom: 0.2em;">Getting help</div>
+|-
+| style="color:#000"|
+* [[Wikipedia:FAQ|Frequently asked questions]] • [[Wikipedia:Tips|Tips]]
+* [[Wikipedia:Questions|Where to ask questions or make comments]]
+* [[Wikipedia:Requests for administrator attention|Request administrator attention]]
+* [[Wikipedia:Help_desk|Help desk: A Wiki Styled page to ask questions on]]
+* [[Help:Contents/Directory|Help directory: A comprehensive list-style help contents page]]
+|-
+! <div style="margin: 0; background:#084080; font-family: sans-serif; font-size:120%; font-weight:bold; border:1px solid #CEF2E0; text-align:left; color:#FFC000; padding-left:0.4em; padding-top: 0.2em; padding-bottom: 0.2em;">Policies and guidelines</div>
+|-
+| style="color:#000"|
+* [[Wikipedia:Neutral point of view|Neutral point of view]] • [[Wikipedia:No original research|No original research]]
+* [[Wikipedia:Verifiability|Verifiability]] • [[Wikipedia:Reliable sources|Reliable sources]] • [[Wikipedia:Citing sources|Citing sources]]
+* [[Wikipedia:What Wikipedia is not|What Wikipedia is not]] • [[Wikipedia:Biographies of living persons|Biographies of living persons]]
+<hr />
+* [[Wikipedia:List of policies|List of policies]] • [[Wikipedia:Three-revert rule|Three-revert rule]] • [[Wikipedia:Sock puppetry|Sock puppetry]]
+* [[Wikipedia:Copyrights|Copyrights]] • [[Wikipedia:Non-free content|Policy for non-free content]] • [[Wikipedia:Image use policy|Image use policy]]
+* [[Wikipedia:External links|External links]] • [[Wikipedia:Spam|Spam]] • [[Wikipedia:Vandalism|Vandalism]] • [[Wikipedia:List of guidelines|List of guidelines]]
+* [[Wikipedia:Deletion policy|Deletion policy]] • [[Wikipedia:Conflict of interest|Conflict of interest]] • [[Wikipedia:Notability|Notability]]
+|-
+|}
+|class="MainPageBG" style="width: 55%; border:1px solid #FFFFFF; background-color:#F5FFFA; vertical-align:top"|
+{| width="100%" cellpadding="0" cellspacing="5" style="vertical-align:top; background-color:#F5FFFA"
+! <div style="margin: 0; background-color:#084080; font-family: sans-serif; font-size:120%; font-weight:bold; border:1px solid #CEF2E0; text-align:left; color:#FFC000; padding-left:0.4em; padding-top: 0.2em; padding-bottom: 0.2em;">The community</div>
+|-
+|style="color:#000"|
+* [[Wikipedia:Consensus|Build consensus]] • [[Wikipedia:Dispute resolution|Resolve disputes]]
+* [[Wikipedia:Assume good faith|Assume good faith]] • [[Wikipedia:Civility|Civility]] • [[Wikipedia:Etiquette|Etiquette]]
+* [[Wikipedia:No personal attacks|No personal attacks]] • [[Wikipedia:No legal threats|No legal threats]]
+<hr />
+* [[Wikipedia:Community portal|Community portal]] • [[Wikipedia:Village pump|Village pump]]
+* [[Wikipedia:Wikipedia Signpost|Signpost]] • [[Wikipedia:IRC channels|IRC channels]] • [[Wikipedia:Mailing lists|Mailing lists]]
+|-
+! <div style="margin: 0; background-color:#084080; font-family: sans-serif; font-size:120%; font-weight:bold; border:1px solid #CEF2E0; text-align:left; color:#FFC000; padding-left:0.4em; padding-top: 0.2em; padding-bottom: 0.2em;">Writing articles</div>
+|-
+|style="color:#000"|
+* [[Wikipedia:Be bold|Be bold in editing]] • [[Wikipedia:Article development|Develop an article]]
+* [[Wikipedia:The perfect article|The perfect article]] • [[Wikipedia:Simplified Manual of Style|Simplified manual of style]]
+* [[Wikipedia:Stub|Stubs]] • [[Wikipedia:Categorization|Categories]] • [[Wikipedia:Disambiguation|Disambiguation]]
+* [[Wikipedia:Peer review|Peer review]] •  [[Portal:Featured content|Featured content]]
+|-
+! <div style="margin: 0; background-color:#084080; font-family: sans-serif; font-size:120%; font-weight:bold; border:1px solid #CEF2E0; text-align:left; color:#FFC000; padding-left:0.4em; padding-top: 0.2em; padding-bottom: 0.2em;">Miscellaneous</div>
+|-
+|style="color:#000"|
+* [[Wikipedia:User page|User pages]] • [[Wikipedia:Talk page|Talk pages]]
+* [[Wikipedia:Awards| Awards a registered contributor can achieve and award]]
+* Clean up: [[Wikipedia:Cleanup|General]] • [[Wikipedia:WikiProject Spam|Spam]] • [[Wikipedia:Cleaning up vandalism|Vandalism]]
+* [[Wikipedia:WikiProject|Join a WikiProject]] • [[Wikipedia:Translation|Translation]]
+* [[Wikipedia:Template messages|Useful templates]] • [[Wikipedia:Tools|Tools]] • [[Wikipedia:WikiProject User scripts|User scripts]]
+|-
+|}
+|}
+|}<!--Template:Welcomeg-->
+== October 2015 ==
+Welcome to Wikipedia. Although everyone is welcome to contribute constructively to the encyclopedia, your addition of one or more external links to the page [[:Anti-guerrilla paramilitarism in Colombia]] has been reverted.<br />Your edit [https://en.wikipedia.org/w/index.php?diff=688186599&oldid=678308044 here] to [[Anti-guerrilla paramilitarism in Colombia]] was reverted by an automated bot that attempts to remove links which are discouraged per our [[WP:EL|external links guideline]].  The external link(s) you added or changed (https://www.youtube.com/watch?v=dCB4CmqUPWg, https://www.youtube.com/watch?v=rElMstA1kSI<!-- matching the [[regex|regex rule]] \byoutube\.com) -->) is/are on my list of links to remove and probably shouldn't be included in Wikipedia. If the external link you inserted or changed was to a [[Wikipedia:Media|media]] file (e.g. a [[Wikipedia:Media help|sound or video]] file) on an external server, then note that linking to such files may be subject to Wikipedia's [[WP:COPYVIO|copyright policy]], as well as other parts of our [[WP:ELNO|external links guideline]].  If the information you linked to is indeed in violation of copyright, then such information should not be linked to.  Please consider using our [[Wikipedia:Upload|upload]] facility to upload a suitable media file, or consider linking to the original.<br />If you were trying to insert an [[Wikipedia:External links|external link]] that does comply with our [[Wikipedia:List of policies|policies]] and [[Wikipedia:List of guidelines|guidelines]], then please accept my creator's apologies and feel free to [[WP:UNDO|undo]] the bot's revert.  However, if the link does not comply with our policies and guidelines, but your edit included other, constructive, changes to the article, feel free to make those changes again without re-adding the link.  Please read Wikipedia's [[WP:EL|external links guideline]] for more information, and consult my [[User:XLinkBot/Reversion reasons|list of frequently-reverted sites]]. For more information about me, see [[User:XLinkBot/FAQ|my FAQ page]]. Thanks!<!-- Template:uw-spam0 --> --[[User:XLinkBot|XLinkBot]] ([[User talk:XLinkBot|talk]]) 06:03, 30 October 2015 (UTC)
+
+==Recent edits to [[Colombian conflict (1964–present)]]==
+[[Image:Information.svg|25px|alt=Information icon]] Hello, and welcome to Wikipedia. I noticed that you made a change to an article, [[Colombian conflict (1964–present)]], but you didn't provide a [[Wikipedia:Identifying reliable sources|reliable source]]. It's been removed for now, but if you'd like to [[Wikipedia:Citing sources|include a citation]] and re-add it, please do so! If you need guidance on referencing, please see the [[Help:Referencing for beginners|referencing for beginners]] tutorial, or if you think I made a mistake, you can leave me a message on my talk page. Thank you! '''[[User:AKS.9955|<span style="color:#000080"> Arun Kumar SINGH </span>]][[User talk: AKS.9955|<span style="color:#01BFFF"> (Talk) </span>]]''' 07:51, 30 October 2015 (UTC)
+
+== J34jhon, you are invited to the Teahouse! ==
+
+
+{| style="margin: 2em 4em;"
+|- valign="top"
+| [[File:WP teahouse logo 2.png|alt=Teahouse logo|link=w:en:WP:Teahouse|File:WP teahouse logo 2.png by User:Heatherawalls, licensed under CC BY-SA 3.0]]
+| <div style="background-color:#f4f3f0; color: #393D38; padding: 1em;border-radius:10px; font-size: 1.1em;">
+Hi '''J34jhon'''! Thanks for contributing to Wikipedia. Be our guest at [[WP:Teahouse|the Teahouse]]! The Teahouse is a friendly space where new editors can ask questions about contributing to Wikipedia and get help from peers and experienced editors. I hope to see you there! {{noping|Naypta}} ([[w:en:WP:Teahouse/Hosts|I'm a Teahouse host]])
+<div class="submit ui-button ui-widget ui-state-default ui-corner-all ui-button-text-only" role="button" aria-disabled="false"><span class="ui-button-text">[[WP:Teahouse|Visit the Teahouse]]</span></div><small><span style="text-align:right;">This message was delivered automatically by your robot friend, [[User:HostBot|HostBot]] ([[User talk:HostBot|talk]]) 17:21, 30 October 2015 (UTC)</small></span>
+</div>
+|}
+[[Category:Wikipedians who have received a Teahouse invitation]]<!-- Template:Teahouse_HostBot_Invitation -->

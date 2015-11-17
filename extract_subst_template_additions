@@ -1,0 +1,3 @@
+#!/usr/bin/env python3
+from th2 import extract_subst_template_additions
+extract_subst_template_additions.main()

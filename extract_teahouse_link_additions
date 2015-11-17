@@ -1,0 +1,3 @@
+#!/usr/bin/env python3
+from th2 import extract_teahouse_link_additions
+extract_teahouse_link_additions.main()
