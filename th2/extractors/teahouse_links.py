@@ -2,25 +2,25 @@ import re
 
 # from http://quarry.wmflabs.org/query/6149
 TEAHOUSE_SYNONYMS = [
-    "[Tt]eahouse",
-    "[Tt]EAHOUSE",
-    "[Tt]ea Room",
-    "[Ii]MNEW",
-    "[wW]ikipedia Teahouse",
-    "[Tt]ea House",
-    "[Tt]EAROOM",
-    "[Tt]ea house",
-    "[Tt]he Teahouse",
-    "[Tt]he Tea House",
-    "[Tt]earoom",
-    "[Tt]HH",
-    "[lL]OUNGE",
-    "[Tt]HQ",
-    "[Tt]H",
-    "[Tt]eahouse questions",
-    "[Tt]ea\?",
-    "[Tt]EA",
-    "[Tt]/Q"
+    r"[Tt]eahouse",
+    r"[Tt]EAHOUSE",
+    r"[Tt]ea Room",
+    r"[Ii]MNEW",
+    r"[wW]ikipedia Teahouse",
+    r"[Tt]ea House",
+    r"[Tt]EAROOM",
+    r"[Tt]ea house",
+    r"[Tt]he Teahouse",
+    r"[Tt]he Tea House",
+    r"[Tt]earoom",
+    r"[Tt]HH",
+    r"[lL]OUNGE",
+    r"[Tt]HQ",
+    r"[Tt]H",
+    r"[Tt]eahouse questions",
+    r"[Tt]ea\?",
+    r"[Tt]EA",
+    r"[Tt]/Q"
 ]
 
 TEAHOUSE_LINK_RE = re.compile(
@@ -29,7 +29,7 @@ TEAHOUSE_LINK_RE = re.compile(
     r'(' +  # Link title
         r'(Wikipedia|WP):' +  # Wikipedia namespace
         r'(' + '|'.join(TEAHOUSE_SYNONYMS) + r')' +  # Some teahouse page name
-        r'(/[^\]|\n]+)?' +  # Something appended with a "/"
+        r'(/[^\]\|\n#]+)?' +  # Something appended with a "/"
     r')'
 )
 

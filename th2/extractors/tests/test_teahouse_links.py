@@ -29,7 +29,7 @@ def test_teahouse_links():
     eq_(list(teahouse_links.extract(relevant)),
         ["wp:th/q"])
 
-    relevant = "[[WP:Teahouse/Questions]]"
+    relevant = "[[WP:Teahouse/Questions#Derp]]"
     eq_(list(teahouse_links.extract(relevant)),
         ["wp:teahouse/questions"])
 
