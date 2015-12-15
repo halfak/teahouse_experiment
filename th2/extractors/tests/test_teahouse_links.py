@@ -33,6 +33,10 @@ def test_teahouse_links():
     eq_(list(teahouse_links.extract(relevant)),
         ["wp:teahouse/questions"])
 
+    relevant = "[[WP:THOMAS]]"
+    eq_(list(teahouse_links.extract(relevant)),
+        [])
+
 def test_omoyoyo_talk_page():
     eq_(list(teahouse_links.extract(OMOYOYO)),
         ['wp:teahouse'])

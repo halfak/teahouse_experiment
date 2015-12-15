@@ -30,6 +30,7 @@ TEAHOUSE_LINK_RE = re.compile(
         r'(Wikipedia|WP):' +  # Wikipedia namespace
         r'(' + '|'.join(TEAHOUSE_SYNONYMS) + r')' +  # Some teahouse page name
         r'(/[^\]\|\n#]+)?' +  # Something appended with a "/"
+        r'(\||\]\])' +  # Closing the link or 
     r')'
 )
 
