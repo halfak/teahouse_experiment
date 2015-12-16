@@ -7,7 +7,7 @@ SELECT
   SUM(page_namespace = 3) AS user_talk_edits,
   SUM(page_namespace IN (4,5)) AS wp_edits,
   SUM(page_namespace > 5) AS other_edits
-FROM th_retention_sample
-LEFT JOIN th_retention_sample_preinvite_edits ON
+FROM th2_retention_sample
+LEFT JOIN th2_retention_sample_preinvite_edits ON
   rev_user = user_id
 GROUP BY user_id;

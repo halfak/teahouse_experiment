@@ -2,8 +2,12 @@
 datasets/*.tsv
 datasets/*.loaded
 
+
+# ipython
+.ipynb_checkpoints/
+
 # Plots
-*.svg
+#*.svg
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

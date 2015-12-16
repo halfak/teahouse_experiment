@@ -18,7 +18,7 @@ FROM (
             rev_timestamp IS NOT NULL AND 
             DATEDIFF(rev_timestamp, user_registration) BETWEEN 60 AND 180
         ) AS revisions_2_to_6_months
-    FROM staging.th_experimental_user as user
+    FROM staging.th2_experimental_user as user
     INNER JOIN user USING (user_id)
     LEFT JOIN revision ON 
         rev_user = user_id AND
@@ -42,7 +42,7 @@ FROM (
             ar_timestamp IS NOT NULL AND 
             DATEDIFF(ar_timestamp, user_registration) BETWEEN 60 AND 180
         ) AS revisions_2_to_6_months
-    FROM staging.th_experimental_user AS user
+    FROM staging.th2_experimental_user AS user
     INNER JOIN user USING (user_id)
     LEFT JOIN archive ON 
         ar_user = user_id AND
