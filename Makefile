@@ -14,9 +14,16 @@ datasets/th2_experimental_user_survival.tsv: \
 
 datasets/th3_experimental_user_survival.tsv: \
 		datasets/th3_experimental_user.tsv
-	cat sql/th3_experimental_user_survival.sql | \
-	mysql $(labsdb) $(enwiki) > \
+	wget http://quarry.wmflabs.org/run/76104/output/0/tsv?download=true -qO- > \
 	datasets/th3_experimental_user_survival.tsv
+
+datasets/th2_preinvite_edits.tsv:
+	curl -o datasets/th2_preinvite_edits.tsv \
+	  http://quarry.wmflabs.org/run/76399/output/0/tsv?download=true
+
+datasets/th3_preinvite_edits.tsv:
+	curl -o datasets/th3_preinvite_edits.tsv \
+	  http://quarry.wmflabs.org/run/78233/output/0/tsv?download=true
 
 #datasets/th2_preinvite_edit_stats.tsv
 #datasets/th2_preinvite_mobile_edits.tsv
